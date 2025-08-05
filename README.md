@@ -12,8 +12,7 @@ This project is a Streamlit-based app that uses OpenAI's GPT models to generate 
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/amartya-mukerjee/pgagi-assignment.git
-   cd pgagi-assignment
+   git clone https://github.com/Killfrenzy-ai/automated-talent-scout-using-openai-API.git
    ```
 
 2. Create and activate a virtual environment:
